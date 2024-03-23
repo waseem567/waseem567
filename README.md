@@ -1,4 +1,4 @@
-# Hi there 👋 , I am Waseem
+# Hi there 👋 , It's Waseem
 ## MERN stack Developer with more focused on NEXT.JS and NEST.JS...
 # Contact
 <p>
