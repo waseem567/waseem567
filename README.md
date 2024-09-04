@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name] - Code Enthusiast & Software Sorcerer
+# 👋 Hey there! I'm Waseem - Code Enthusiast & Software Sorcerer
 
 🚀 Passionate Software Engineer with a knack for crafting elegant solutions using **React**, **Next.js**, **Node.js**, **Express**, and **NestJS**. My playground includes a variety of databases, and I'm always on the lookout for the next challenge in data structures and software quality assurance (SQA). My code isn't just functional—it's designed to be robust, efficient, and scalable. Known for turning complex problems into simple solutions and ensuring every line of code meets the highest standards.
 
