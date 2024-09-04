@@ -55,10 +55,13 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseem567&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=waseem567&theme=radical" alt="Activity Graph" />
+<p align="left">
+ <img src="https://github.com/user-attachments/assets/c035b28e-f29b-4ac2-8651-3c93f6870241" alt="GitHub Streak" />
 </p>
+
+
+
