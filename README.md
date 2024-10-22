@@ -50,18 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem567&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
 
-## 🌟 My GitHub Journey
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseem567&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="left">
- <img src="https://github.com/user-attachments/assets/c035b28e-f29b-4ac2-8651-3c93f6870241" alt="GitHub Streak" />
-</p>
 
 
 
