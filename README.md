@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Waseem - Code Enthusiast
 
-🚀 Passionate Software Engineer with a knack for crafting elegant solutions using **React**, **Next.js**, **Node.js**, **Express**, and **NestJS**. My playground includes a variety of databases, and I'm always on the lookout for the next challenge in data structures and software quality assurance (SQA). My code isn't just functional—it's designed to be robust, efficient, and scalable. Known for turning complex problems into simple solutions and ensuring every line of code meets the highest standards.
+🚀 Oh, so? A MERN Engineer who lives in the world of React, Next.js, Node.js, and NestJS. Databases? My sandbox. SQA? My blueprint. Complex problems? Just whispers waiting to be simplified. Building production-grade apps that aren’t just solutions—they’re scalable, efficient, and a touch of brilliance.
 
 ## 📈 GitHub Stats & Activity
 
