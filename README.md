@@ -1,18 +1,30 @@
-# MERN Engineer | Scaling Ideas into Reality🚀
+# 👨‍💻 Software Engineer @ Nutrifactor | 🚀 Leading Multi-Vitamin Brand 💊  
 
-I architect scalable, efficient, and production-ready applications using **React, Next.js, Node.js, and NestJS**. Databases? My playground. APIs? Seamless. From crafting intuitive frontends to optimizing backend performance, I thrive on solving complex problems with clean, maintainable code.
+## Hi there! 👋  
 
-Building isn't just about writing code—it's about creating scalable solutions that perform, adapt, and evolve. Whether it's a dynamic web app, a robust API, or an enterprise-grade platform, I ensure every project is fast, efficient, and future-proof.
+I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Nutrifactor**, contributing to innovative solutions in the **health & wellness industry**.  
 
-Let’s build something incredible. 💡🚀
+> **"Building isn't just about writing code—it's about creating scalable solutions that perform, adapt, and evolve."**  
 
-## 📈 GitHub Stats & Activity
+Whether it's a **dynamic web app**, a **robust API**, or an **enterprise-grade platform**, I ensure every project is **fast, efficient, and future-proof**.  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseem567&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem567&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
+---
 
+## 🚀 Tech Stack  
+- **Frontend:** React (Vite, TypeScript) ⚛️  
+- **Backend:** Node.js, Express.js, GraphQL 🚀  
+- **Database:** MongoDB (Mongoose) 🗄️  
+- **Dev Tools:** Redis, Docker, GitHub Actions 🛠️  
 
+---
 
+## 🔭 Current Project  
+🎯 **Building Bookease** – a powerful **order-booking system** with **multi-account tracking** & **courier integrations**.  
 
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waseem-224a26281)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]([your-github-url](https://github.com/waseem567))  
+
+Let’s build something **incredible**. 💡🚀  
