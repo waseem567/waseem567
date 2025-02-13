@@ -11,9 +11,9 @@ Whether it's a **dynamic web app**, a **robust API**, or an **enterprise-grade p
 ---
 
 ## 🚀 Tech Stack  
-- **Frontend:** React (Vite, TypeScript) ⚛️  
-- **Backend:** Node.js, Express.js, GraphQL 🚀  
-- **Database:** MongoDB (Mongoose) 🗄️  
+- **Frontend:** React.js, Next.js (Vite, TypeScript) ⚛️  
+- **Backend:** Node.js, Express.js, Nest.js, Next.js, GraphQL 🚀  
+- **Database:** MongoDB (Mongoose), SQL (sequelize) 🗄️  
 - **Dev Tools:** Redis, Docker, GitHub Actions 🛠️  
 
 ---
