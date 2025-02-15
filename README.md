@@ -40,6 +40,6 @@ If you'd like to know more about my work, feel free to connect! 🚀
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waseem-224a26281)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]([your-github-url](https://github.com/waseem567))  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/waseem567)  
 
 Let’s build something **incredible**. 💡🚀  
