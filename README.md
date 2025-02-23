@@ -1,8 +1,8 @@
-# 👨‍💻 Software Engineer @ Nutrifactor | 🚀 Leading Multi-Vitamin Brand 💊  
+# 👨‍💻 Software Engineer @ Netixsol | 🚀 Leading Blockchain Company  
 
 ## Hi there! 👋  
 
-I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Nutrifactor**, contributing to innovative solutions in the **health & wellness industry**.  
+I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Netixsol**, contributing to innovative solutions in the **Web 3 & AI industry**.  
 
 > **"Building isn't just about writing code—it's about creating scalable solutions that perform, adapt, and evolve."**  
 
