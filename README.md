@@ -1,4 +1,4 @@
-# 👨‍💻 Software Engineer @ Netixsol | 🚀 Leading Blockchain Company  
+# 👨‍💻 Software Engineer @ Nutrifactor
 
 ## Hi there! 👋  
 
