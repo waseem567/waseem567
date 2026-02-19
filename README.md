@@ -1,24 +1,37 @@
 # 👨‍💻 Software Engineer @ Nutrifactor
 
-## Hi there! 👋  
+## Hey there! 👋  
 
-I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Nutrifactor**.  
+I turn ☕ coffee into scalable systems.  
 
-> **"Building isn't just about writing code—it's about creating scalable solutions that perform, adapt, and evolve."**  
+Currently engineering things at **Nutrifactor** — *Pakistan’s biggest multivitamins brand* — making sure our tech stack is as strong as our supplements 💊🚀  
+
+> **"If it works, I built it.  
+> If it scales, I optimized it.  
+> If it crashes… we don’t talk about that."** 😅  
+
+Whether it's a **dynamic web app**, a **robust API**, or a **production server that won't explode**, I make sure every project is **fast, efficient, and mildly magical**.
 
 ---
 
 ## 🚀 Tech Stack  
 - **Frontend:** React.js, Next.js (Vite, TypeScript) ⚛️  
-- **Backend:** Node.js, Express.js, Nest.js, Next.js, GraphQL 🚀  
-- **Database:** MongoDB (Mongoose), SQL (sequelize) 🗄️  
+- **Backend:** Node.js, Express.js, Nest.js, GraphQL 🚀  
+- **Database:** MongoDB (Mongoose), SQL (Sequelize) 🗄️  
 - **Dev Tools:** Redis, Docker, GitHub Actions 🛠️  
 
 ---
 
+## 🔭 Current Mode  
+🎯 Building smart systems  
+🧠 Experimenting with AI agents  
+😬 Trying not to break production  
+
+---
+
 ## 📂 Projects & Contributions  
-The public repositories here mainly include **practice projects and smaller experiments**. 
-If you'd like to know more about my work, feel free to connect! 🚀  
+Public repositories here include **practice builds, experiments, and “what if I try this?” moments**.  
+The serious stuff lives elsewhere 😎  
 
 ---
 
@@ -35,4 +48,4 @@ If you'd like to know more about my work, feel free to connect! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waseem-224a26281)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/waseem567)  
 
-Let’s build something **incredible**. 💡🚀  
+Let’s build something **awesome** 🚀
