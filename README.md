@@ -1,12 +1,10 @@
-# 👨‍💻 Software Engineer @ Netixsol
+# 👨‍💻 Software Engineer @ Nutrifactor
 
 ## Hi there! 👋  
 
-I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Netixsol**.  
+I’m a **MERN Stack Engineer** specializing in building scalable web applications. Passionate about **Node.js, Express, MongoDB, GraphQL, and React with TypeScript**. Currently working at **Nutrifactor**.  
 
 > **"Building isn't just about writing code—it's about creating scalable solutions that perform, adapt, and evolve."**  
-
-Whether it's a **dynamic web app**, a **robust API**, or an **enterprise-grade platform**, I ensure every project is **fast, efficient, and future-proof**.  
 
 ---
 
@@ -15,11 +13,6 @@ Whether it's a **dynamic web app**, a **robust API**, or an **enterprise-grade p
 - **Backend:** Node.js, Express.js, Nest.js, Next.js, GraphQL 🚀  
 - **Database:** MongoDB (Mongoose), SQL (sequelize) 🗄️  
 - **Dev Tools:** Redis, Docker, GitHub Actions 🛠️  
-
----
-
-## 🔭 Current Project  
-🎯 **Building statbreak** – a powerful **sports stats system** using **AI agents** and **LangGraph**.  
 
 ---
 
