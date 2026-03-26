@@ -116,7 +116,7 @@ drwxr-xr-x  what-if-experiments/     [PUBLIC]  Chaos engineering & tech explorat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waseem567&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&ring_color=00ff94" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=waseem567&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&ring_color=00ff94" height="160" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem567&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff94&text_color=c9d1d9" height="160" />
 
