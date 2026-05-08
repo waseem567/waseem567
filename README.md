@@ -33,7 +33,7 @@
 {
   "name"     : "Muhammad Waseem",
   "role"     : "Software Engineer @ Nutrifactor",
-  "location" : "Lahore, Pakistan 🇵🇰",
+  "location" : "Faisalabad, Pakistan 🇵🇰",
   "mode"     : "Building smart systems & AI agents",
   "fuel"     : "☕ coffee × ∞",
   "status"   : "⚡ available for interesting problems"
